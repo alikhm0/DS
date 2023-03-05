@@ -1,3 +1,5 @@
-10 40
-hooda,hamed,taj,pouya,ahmad,misagh,saman,mosi,sina,arthus
-345,123,784,2423,434,47,67,84,62334,430
+2
+13 2
+1010001111010
+6 3
+011110
